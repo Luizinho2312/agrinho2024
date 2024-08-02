@@ -1,0 +1,293 @@
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" lang="en-us">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#"><meta name="language" content="pt-BR" />
+<meta name="country" content="BRA" />
+<meta name="currency" content="R$" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="description" content="Botina Com Cadarço Nº 38 Energy Marrom Estival Calçado de segurança tipo bota cor marrom, confeccionado em couro nobuck de alta qualidade, fechamento " />
+<meta name="Abstract" content="Botina Com Cadarço Nº 38 Energy Marrom Estival" />
+<meta name="author" content="cosama" />
+<meta name="copyright" content="cosama" />
+<meta name="vtex-version" content="1.0.0.0" />
+<meta http-equiv="pragma" content="no-cache" />
+<link rel="shortcut icon" href="/arquivos/cosama-favicon.ico?v=636513492043170000" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Botina Com Cadarço Nº 38 Energy Marrom Estival - Cosama</title><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.cosamapro.com.br/checkout/#/cart';var jscheckoutAddUrl = 'https://www.cosamapro.com.br/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'cosama';var jsnomeLoja = 'cosama';var jssalesChannel = '1';var defaultStoreCurrency = 'R$';var localeInfo = {"CountryCode":"BRA","CultureCode":"pt-BR","CurrencyLocale":{"RegionDisplayName":"Brazil","RegionName":"BR","RegionNativeName":"Brasil","TwoLetterIsoRegionName":"BR","CurrencyEnglishName":"Brazilian Real","CurrencyNativeName":"Real","CurrencySymbol":"R$","ISOCurrencySymbol":"BRL","Locale":1046,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/br.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {"skus":"3593150","searchTerm":"","categoryId":"2770024","categoryName":"BOTINAS","departmentyId":"24","departmentName":"EPI'S","isOrder":"0","isCheck":"0","isCart":"0","actionType":"","actionValue":"","login":null,"url":"www.cosamapro.com.br","transurl":"www.cosamapro.com.br"};</script> 
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/mobile/mdetect.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/mobile/mdetect2.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/swfobject.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.ajax.wait.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.common.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://vtex.vtexassets.com/_v/public/assets/v1/npm/@vtex/render-extension-loader@0.1.6/lib/render-extension-loader.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/rc/rc.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://activity-flow.vtex.com/af/af.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.tagmanager.helper.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/v1.20.7/scripts/vtex-events-all.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/v1.20.7/scripts/vtex-analytics.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-i18n/0.7.2/vtex-i18n.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-utils/3.0.8/underscore-extensions.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/currency-format.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/catalog-sdk.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex.js/v2.13.1/vtex.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/jquery.ui.core.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/autocomplete/jquery.ui.widget.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/autocomplete/jquery.ui.position.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/autocomplete/jquery.ui.autocomplete.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.commerce.search.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.fulltextsearchbox.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex-id-ui/3.27.1/vtexid-jquery.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/jquery.jqzoom-core.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-price-with-template2.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-buy-button.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-notify-me-with-template.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/jquery.maskedinput-1.2.2.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-minicart-with-template.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900" rel="stylesheet" /><link href="/arquivos/bootstrap.min.css?v=636495495716100000" rel="stylesheet" /><link href="/arquivos/global.css?v=637739583387800000" rel="stylesheet" /><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script>
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: @Produto@ -->
+
+<script>
+vtex.events.addData({"pageCategory":"Product","pageDepartment":"EPI'S","pageUrl":"http://www.cosamapro.com.br/botina-com-cadarco-nº-38-energy-marrom-estival/p","pageTitle":"Botina Com Cadarço Nº 38 Energy Marrom Estival - Cosama","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":[],"accountName":"cosama","pageFacets":[],"productId":"3593150","productReferenceId":"3593150","productEans":["1000035931507"],"skuStocks":{"3593150":2},"productName":"Botina Com Cadarço Nº 38 Energy Marrom Estival","productBrandId":1628,"productBrandName":"Estival","productDepartmentId":59810051,"productDepartmentName":"CALÇADOS","productCategoryId":2770024,"productCategoryName":"BOTINAS","productListPriceFrom":"225.08","productListPriceTo":"225.08","productPriceFrom":"225.08","productPriceTo":"225.08","sellerId":"1","sellerIds":"1"});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-WKM9PMS');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('productView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<link rel="canonical" href="https://www.cosamapro.com.br/botina-com-cadarco-n%c2%ba-38-energy-marrom-estival/p" /><script>var skuJson_0 = {"productId":3593150,"name":"Botina Com Cadarço Nº 38 Energy Marrom Estival","salesChannel":"1","available":true,"displayMode":"especificacao","dimensions":[],"dimensionsInputType":{},"dimensionsMap":{},"skus":[{"sku":3593150,"skuname":"Botina Com Cadarço Nº 38 Energy Marrom Estival","dimensions":{},"available":true,"availablequantity":2,"cacheVersionUsedToCallCheckout":"_","listPriceFormated":"R$ 0,00","fullSellingPrice":"R$ 225,08","listPrice":0,"taxFormated":"R$ 0,00","taxAsInt":0,"bestPriceFormated":"R$ 225,08","bestPrice":22508,"spotPrice":22508,"installments":6,"installmentsValue":3751,"installmentsInsterestRate":0,"image":"https://cosama.vteximg.com.br/arquivos/ids/170214-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886687285600000","sellerId":"1","seller":"Cosama Pro","measures":{"cubicweight":0.0000,"height":13.0000,"length":26.0000,"weight":1000.0000,"width":37.0000},"unitMultiplier":1.0000,"rewardValue":0}]};CATALOG_SDK.setProductWithVariationsCache(skuJson_0.productId, skuJson_0); var skuJson = skuJson_0;</script></head>
+  <body id="product-page" class="pagina-produto"><div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer"></div><header><section class="topo-links"><div class="container-not-responsive"><div class="row padding0"><div class="col-xs-12 padding0"><div class="pull-right topo-links-configure"><ul><li><a href="/account/" title="Minha Conta"><i class="fa fa-user"></i>Minha Conta</a></li><li><a href="/account/orders" title="Meus Pedidos"><i class="glyphicon glyphicon-th-list"></i>Meus Pedidos</a></li><li><a href="/institucional/central-atendimento" title="Central de Atendimento"><i class="fa fa-comments"></i>Central de Atendimento</a></li></ul></div></div></div></div></section><!-- End Topo Links --><div id="sticky-anchor"></div><section id="topo-header" class="topo-flutuante"><div class="container-not-responsive"><div class="row"><div class="col-xs-3 logo-col"><a href="/"><div class="logotipo"></div></a></div><div class="col-xs-7 busca-xs"><div class="row"><div class="col-xs-8 topo-busca"><script type="text/javascript" language="javascript"> /*<![CDATA[*/ $(document).ready(function(){currentDept = '0'; enableFullTextSearchBox('ftBox2322376d0dc54cb382666b2b9bea0e98', 'ftDept2322376d0dc54cb382666b2b9bea0e98', 'ftIdx2322376d0dc54cb382666b2b9bea0e98', 'ftBtn2322376d0dc54cb382666b2b9bea0e98', '/SEARCHTERM','Digite Aqui' );}); /*]]>*/ </script><fieldset class="busca"><legend>Buscar</legend><label>Buscar</label><select id="ftDept2322376d0dc54cb382666b2b9bea0e98"><option value="">Todo o Site</option><option value="1">FERRAGENS E FECHADURAS</option><option value="2">TUBOS E CONEXÕES</option><option value="43">AUTOMOTIVA</option><option value="4">FERRAMENTAS ELETRICAS</option><option value="5">CORTE E DESBASTE</option><option value="7">CABOS, CORDAS, TELAS E LONAS</option><option value="8">LAVANDERIA E LIMPEZA</option><option value="6">MEDICAO E PRECISAO</option><option value="11">JARDIM E AGRICOLA</option><option value="12">CHUVEIROS E AQUECEDORES</option><option value="18">MATERIAIS ELETRICOS</option><option value="21">PINTURA</option><option value="15">CASA, PISCINA  E LAZER</option><option value="20">PNEUMATICOS</option><option value="23">FERRAMENTAS MANUAIS</option><option value="24">EPI'S</option><option value="25">COMPRESSORES, BOMBAS E MOTORES</option><option value="26">PAS, ENXADAS E OUTROS</option><option value="32">SOLDA E ACESSORIOS</option><option value="31">TORNEIRAS E ACESSORIOS</option><option value="34">ILUMINAÇÃO</option><option value="37">PARAFUSOS E FIXAÇÃO</option><option value="36">SEGURANCA E COMUNICACAO</option><option value="38">MOVIMENTACAO E CARGA</option><option value="40">INFORMATICA</option><option value="51">ADESIVOS E LUBRIFICAÇÃO</option><option value="81">ELETROS</option><option value="91">ORGANIZAÇÃO</option><option value="59810205">PET SHOP</option></select><input type="hidden" id=ftIdx2322376d0dc54cb382666b2b9bea0e98 value="" /><input id="ftBox2322376d0dc54cb382666b2b9bea0e98" class="fulltext-search-box" type="text" size="20" accesskey="b" /><input id="ftBtn2322376d0dc54cb382666b2b9bea0e98" type="button" value="Buscar" class="btn-buscar" /></fieldset></div><div class="col-xs-4 span-visitante padding0"><div class="pull-right"><i class="fa fa-user topo-visitante-icon"></i><script>
+                                    $(document).ready(function () {
+                                        vtexid.setScope('f11e70b4-9f44-4a29-a173-90ceb19df773');
+                                        vtexid.setScopeName('cosama');
+                                        $('body').on('click', '#login', function () {
+                                            vtexid.start(
+                                                    {
+                                                        returnUrl: '/botina-com-cadarco-n%C2%BA-38-energy-marrom-estival/p',
+                                                        userEmail: '',
+                                                        locale: 'pt-BR',
+                                                        forceReload: false
+                                                    });
+                                        });
+                                    });
+                                   </script><div class="ajax-content-loader" rel="/no-cache/user/welcome"></div></div></div></div></div><div class="col-xs-2 topo-carrinho-xs padding0"><a href="/checkout/#/cart" class="new-basket"><span class="bg-basket"></span><span class="items-basket">0</span><i class="fa fa-angle-down pull-right"></i></a><div class="minicart"><p>Meu carrinho (<span class="items-basket-minicart">0 itens</span>)</p><div class="no-products"><p>Não há produtos em seu carrinho.</p></div><table><thead><tr><th colspan="2">Produto</th><th>Preço</th><th>Qtd.</th><th></th></tr></thead></table><p class="cart-total">Total (sem frete): <span></span></p><div class="space-buttons"><a href="/checkout/#/cart" class="btn btn-minicart see-cart">Ver meu carrinho</a><a href="/checkout/#/profile" class="btn btn-minicart">Comprar</a></div></div></div></div></div></section><!-- End Topo Header --></header><nav><div class="container-not-responsive"><div class="row nav-row"><div class="col-xs-3 nav-ul-principal padding0"><ul><li class="nav-todos"><i class="fa fa-cog icon-menu-nav"></i><span class="nav-text">Navegue por todos <span class="nav-text-dpt">departamentos</span></span><i class="fa fa-angle-down nav-pull-right pull-left"></i></li></ul><div class="fullmenu"><ul></ul></div></div><div class="col-xs-7 nav-menus padding0"><ul class="custom-menu"></ul></div><div class="col-xs-2 menu-brands padding0"><div class="nav-brands"><a href="/151?map=c,productClusterSearchableIds"></a></div></div></div></div></nav><div style="display: none"><div class="banner-menu-5"><div class="box-banner"><a><img width="350" height="325" id="ihttps://cosama.vteximg.com.br/arquivos/ids/156805/banner_menu_cat_corte_01.jpg?v=636513480326370000" alt="bannercorteedesbate" src="https://cosama.vteximg.com.br/arquivos/ids/156805/banner_menu_cat_corte_01.jpg?v=636513480326370000" complete="complete"/></a></div></div><div class="banner-menu-4"><div class="box-banner"><a><img width="350" height="325" id="ihttps://cosama.vteximg.com.br/arquivos/ids/156803/banner_menu_cat_fe_02.jpg?v=636513478641830000" alt="bannerferramentaseletricas" src="https://cosama.vteximg.com.br/arquivos/ids/156803/banner_menu_cat_fe_02.jpg?v=636513478641830000" complete="complete"/></a></div></div><div class="banner-menu-23"><div class="box-banner"><a><img width="350" height="325" id="ihttps://cosama.vteximg.com.br/arquivos/ids/156806/banner_menu_cat_fm_03.jpg?v=636513481503100000" alt="bannerferramentasmanuais" src="https://cosama.vteximg.com.br/arquivos/ids/156806/banner_menu_cat_fm_03.jpg?v=636513481503100000" complete="complete"/></a></div></div><div class="banner-menu-11"><div class="box-banner"><a><img width="350" height="325" id="ihttps://cosama.vteximg.com.br/arquivos/ids/156807/banner_menu_cat_jardim_04.jpg?v=636513483053700000" alt="bannerjardimagricola" src="https://cosama.vteximg.com.br/arquivos/ids/156807/banner_menu_cat_jardim_04.jpg?v=636513483053700000" complete="complete"/></a></div></div><div class="banner-menu-6"><div class="box-banner"><a><img width="350" height="325" id="ihttps://cosama.vteximg.com.br/arquivos/ids/156804/banner_menu_cat_medicao_05.jpg?v=636513479850300000" alt="bannermedicaoprecisao" src="https://cosama.vteximg.com.br/arquivos/ids/156804/banner_menu_cat_medicao_05.jpg?v=636513479850300000" complete="complete"/></a></div></div><div class="banner-menu-32"><div class="box-banner"><a><img width="350" height="325" id="ihttps://cosama.vteximg.com.br/arquivos/ids/156808/banner_menu_cat_solda_06.jpg?v=636513483319400000" alt="bannersoldaacessorios" src="https://cosama.vteximg.com.br/arquivos/ids/156808/banner_menu_cat_solda_06.jpg?v=636513483319400000" complete="complete"/></a></div></div></div><section id="product-content" class="container-not-responsive"><div id="box-bread-brumb" class="hidden-xs"><div class="bread-crumb" itemscope itemtype="http://schema.org/BreadcrumbList" >
+<ul>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a href="https://www.cosamapro.com.br/" itemprop="item"><span itemprop="name">Cosama</span></a><meta itemprop="position" content="1" /></li>
+<li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.cosamapro.com.br/epi-s" itemprop="item"><span itemprop="name">EPI'S</span></a><meta itemprop="position" content="2" /></li><li   itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.cosamapro.com.br/epi-s/calcados" itemprop="item"><span itemprop="name">CALÇADOS</span></a><meta itemprop="position" content="3" /></li><li class="last"  itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.cosamapro.com.br/epi-s/calcados/botinas" itemprop="item"><span itemprop="name">BOTINAS</span></a><meta itemprop="position" content="4" /></li></ul>
+</div>
+</div><div class="row product-details"><h1 class="title-product"><div class="fn productName  Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival ">Botina Com Cadarço Nº 38 Energy Marrom Estival</div><input id="___rc-p-id"  type="hidden" value="3593150" /><input id="___rc-p-dv-id"  type="hidden" value="225,08" /><input id="___rc-p-sku-ids"  type="hidden" value="3593150" /><input id="___rc-p-kit-ids"  type="hidden" value="" /></h1><div class="sub-info-product"><p>Marca: <div class="brandName Estival "><a href="https://www.cosamapro.com.br/epi-s/calcados/botinas/estival" class="brand estival">Estival</a></div><span class="codigo-produto">Cód: <div class="skuReference">3593150</div></span></p></div><div class="product-image col-xs-12 col-sm-7 col-lg-6 text-center"><!--  Component: Product Images --><div class="apresentacao">
+<div id="setaThumbs"></div>
+<div id="show">
+<div id="include">
+<div id="image" productIndex="0">
+<a href="https://cosama.vteximg.com.br/arquivos/ids/170214-1000-1000/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886687285600000" class="image-zoom"><img productIndex="0" id="image-main" class="sku-rich-image-main" src="https://cosama.vteximg.com.br/arquivos/ids/170214-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886687285600000" alt="Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival" title="Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival" /></a>
+</div>
+</div>
+<ul class="thumbs"> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='https://cosama.vteximg.com.br/arquivos/ids/170214-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886687285600000' zoom='https://cosama.vteximg.com.br/arquivos/ids/170214-1000-1000/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886687285600000'>
+                                                        <img src='https://cosama.vteximg.com.br/arquivos/ids/170214-55-55/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886687285600000' title='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival' alt='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival'/>
+                                                    </a>
+                                                </li> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='https://cosama.vteximg.com.br/arquivos/ids/170215-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-2.jpg?v=637886687364130000' zoom='https://cosama.vteximg.com.br/arquivos/ids/170215-1000-1000/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-2.jpg?v=637886687364130000'>
+                                                        <img src='https://cosama.vteximg.com.br/arquivos/ids/170215-55-55/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-2.jpg?v=637886687364130000' title='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-2' alt='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-2'/>
+                                                    </a>
+                                                </li> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='https://cosama.vteximg.com.br/arquivos/ids/170216-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-3.jpg?v=637886687457400000' zoom='https://cosama.vteximg.com.br/arquivos/ids/170216-1000-1000/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-3.jpg?v=637886687457400000'>
+                                                        <img src='https://cosama.vteximg.com.br/arquivos/ids/170216-55-55/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-3.jpg?v=637886687457400000' title='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-3' alt='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-3'/>
+                                                    </a>
+                                                </li> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='https://cosama.vteximg.com.br/arquivos/ids/170217-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-4.jpg?v=637886687537830000' zoom='https://cosama.vteximg.com.br/arquivos/ids/170217-1000-1000/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-4.jpg?v=637886687537830000'>
+                                                        <img src='https://cosama.vteximg.com.br/arquivos/ids/170217-55-55/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-4.jpg?v=637886687537830000' title='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-4' alt='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-4'/>
+                                                    </a>
+                                                </li> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='https://cosama.vteximg.com.br/arquivos/ids/170218-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-5.jpg?v=637886687647100000' zoom='https://cosama.vteximg.com.br/arquivos/ids/170218-1000-1000/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-5.jpg?v=637886687647100000'>
+                                                        <img src='https://cosama.vteximg.com.br/arquivos/ids/170218-55-55/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-5.jpg?v=637886687647100000' title='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-5' alt='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-5'/>
+                                                    </a>
+                                                </li> <li>
+                                                    <a id='botaoZoom' href='javascript:void(0);' title='Zoom' rel='https://cosama.vteximg.com.br/arquivos/ids/170219-475-475/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-6.jpg?v=637886687714200000' zoom='https://cosama.vteximg.com.br/arquivos/ids/170219-1000-1000/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-6.jpg?v=637886687714200000'>
+                                                        <img src='https://cosama.vteximg.com.br/arquivos/ids/170219-55-55/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-6.jpg?v=637886687714200000' title='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-6' alt='Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival-6'/>
+                                                    </a>
+                                                </li></ul></div>
+</div>
+</div><!-- .product-image --><div class="product-info col-xs-12 col-sm-5 col-lg-6"><div class="titulo-produto"><h1></h1></div><div class="sombra-produto"><div class="area-preco"><div class="row"><div class="col-sm-6 same-height"><div class="plugin-preco"><p productIndex="0" class="descricao-preco"><em productIndex="0" class="valor-de" style="display:none">De: <strong productIndex="0" class="skuListPrice">R$ 0,00</strong></em><em productIndex="0" class="valor-por" >Por: <strong productIndex="0" class="skuBestPrice">R$ 225,08</strong></em><em productIndex="0" class="valor-dividido" style="display:block"><span><span>ou <label productIndex="0" class="skuBestInstallmentNumber">6</label>X de</span> <strong><label productIndex="0" class="skuBestInstallmentValue">R$ 37,51</label></strong></span></em><p productIndex="0" class="preco-a-vista" style="display:none">Preço a vista: <strong productIndex="0" class="skuPrice">R$ 225,08</strong></p></p></div><script>$('.plugin-preco').price(3593150);</script></div><div class="col-sm-6 same-height"><div class="align-middle"><a target="_top" class="buy-button buy-button-ref" href="https://www.cosamapro.com.br/checkout/cart/add?sku=3593150&qty=1&seller=1&sc=1&price=22508&cv=_&sc=1" style="display:block">Comprar</a><script>$('.buy-button-ref').buyButton(3593150, {salesChannel: 1}, {})</script><p class="unavailable-button" style="display:none">Produto Esgotado</p><input type="hidden" class="buy-button-amount" value="1"><div class="portal-notify-me-ref"></div><script>var notifyMeOptions = {'strings': {"title":"Avise-Me","explanation":"\r\n    Para ser avisado da disponibilidade deste Produto, basta preencher os campos abaixo.\r\n  ","loading":"Carregando...","namePlaceholder":"Digite seu nome...","emailPlaceholder":"Digite seu e-mail...","success":"Cadastrado com sucesso, assim que o produto for disponibilizado você receberá um email avisando.","error":"Não foi possível cadastrar. Tente mais tarde.","emailErrorMessage":"O endereço de e-mail informado é inválido."}};
+$('.portal-notify-me-ref').notifyMe(3593150, notifyMeOptions);</script></div></div></div></div><div class="hide"><div class="sku-selector-container sku-selector-container-0" /></div><script>$('.sku-selector-container-0').skuSelector(skuJson_0, {forceInputType: 'radio', selectSingleDimensionsOnOpening: 'true'});</script><!-- A viewpart skuRichSelection esta obsoleta. Use a viewpart skuSelection para renderizar no modo de exibicao configurado --><div class="wrapper">
+<input type="hidden" id="sellerOptionSetting" value="3,3"/>
+<div class="sellerOptions">
+<!-- there's only one seller for the stock keeping unity 3593150 --></div>
+</div>
+<!-- The tag <vtex.cmc:SalesChannelDropList xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce" /> is unknown. --></div><div class="info-footer"><div class="calculo-frete"><p id="popupCalculoFreteWrapper" class="frete"><a onclick="ShippingValue();" href="javascript:void(0);" title="Calcule o valor do frete e prazo de entrega para a sua região" class="shipping-value">Calcule o valor do frete e prazo de entrega para a sua região</a></p><div id="calculoFrete" seller="1" produtoCorrente="3593150" skuCorrente="3593150"></div>
+<script type="text/javascript">
+									$(document).ready( function(){
+										ShippingValue();
+									});
+								</script></div></div></div></div><!-- .product-info --></div><!-- .product-details --></section><div class="bg-cinza"><div class="container-not-responsive"><!--<div class="compre-junto">
+			        <h3>Compre Junto</h3>
+			        <vtex.cmc:BuyTogether/>
+			    </div>--><div class="relacionados"><h3>Produtos relacionados</h3><div class="new-showcase"><div class="prateleira n4colunas"><h2>Quem viu, viu tambem</h2>
+<ul><li layout="376aae94-8a22-44eb-90ea-82111b0db641" class="calcados">
+
+<div class="vitrine">
+	<div class="editContent">
+	        		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-marrom-estival/p" title="Botina Com Cadar&#231;o N&#186; 39 Energy Marrom Estival" class="link-image">
+    		        		    <img src="https://cosama.vteximg.com.br/arquivos/ids/170220-180-180/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886688161930000" width="180" height="180" alt="Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival" id="" />
+    		    <div class="flags-discount">
+            	    <p class="flag desconto-de-5--boleto">Desconto de 5% boleto</p>
+            	    
+            	</div>
+    		</a>
+		    	
+		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-marrom-estival/p" title="Botina Com Cadar&#231;o N&#186; 39 Energy Marrom Estival">
+		    <span class="title-vitrine">Botina Com Cadar&#231;o N&#186; 39 Energy Marrom Estival</span>
+		</a>
+		
+		    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-marrom-estival/p" title="Botina Com Cadar&#231;o N&#186; 39 Energy Marrom Estival">
+        		        		<span class="price-vitrine">R$ 225,08</span>
+        		<!--<span class="title-vista">á vista com (5 % de desconto)</span>-->
+        		        		    <span class="title-parcelado">ou 6 <span class="number-installment" >x</span> de <span class="uppercase">R$ 37,51</span></span>
+                            </a>
+    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-marrom-estival/p" class="vitrine-btn">Comprar <span class="ico"></span></a>
+				
+	</div>
+</div>
+</li><li id="helperComplement_3593151" style="display:none" class="helperComplement"></li><li layout="376aae94-8a22-44eb-90ea-82111b0db641" class="calcados">
+
+<div class="vitrine">
+	<div class="editContent">
+	        		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-preto-e-vermelho-estival/p" title="Botina Com Cadar&#231;o N&#186; 39 Energy Preto E Vermelho Estival" class="link-image">
+    		        		    <img src="https://cosama.vteximg.com.br/arquivos/ids/170165-180-180/Botina-Com-Cadarco-Enery-Preto-E-Vermelho-Estival.jpg?v=637885843831570000" width="180" height="180" alt="Botina-Com-Cadarco-Enery-Preto-E-Vermelho-Estival" id="" />
+    		    <div class="flags-discount">
+            	    <p class="flag desconto-de-5--boleto">Desconto de 5% boleto</p>
+            	    
+            	</div>
+    		</a>
+		    	
+		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-preto-e-vermelho-estival/p" title="Botina Com Cadar&#231;o N&#186; 39 Energy Preto E Vermelho Estival">
+		    <span class="title-vitrine">Botina Com Cadar&#231;o N&#186; 39 Energy Preto E Vermelho Estival</span>
+		</a>
+		
+		    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-preto-e-vermelho-estival/p" title="Botina Com Cadar&#231;o N&#186; 39 Energy Preto E Vermelho Estival">
+        		        		<span class="price-vitrine">R$ 233,58</span>
+        		<!--<span class="title-vista">á vista com (5 % de desconto)</span>-->
+        		        		    <span class="title-parcelado">ou 6 <span class="number-installment" >x</span> de <span class="uppercase">R$ 38,93</span></span>
+                            </a>
+    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-39-energy-preto-e-vermelho-estival/p" class="vitrine-btn">Comprar <span class="ico"></span></a>
+				
+	</div>
+</div>
+</li><li id="helperComplement_3593163" style="display:none" class="helperComplement"></li><li layout="376aae94-8a22-44eb-90ea-82111b0db641" class="calcados">
+
+<div class="vitrine">
+	<div class="editContent">
+	        		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-42-energy-preto-e-vermelho-estival/p" title="Botina Com Cadar&#231;o N&#186; 42 Energy Preto E Vermelho Estival" class="link-image">
+    		        		    <img src="https://cosama.vteximg.com.br/arquivos/ids/170182-180-180/Botina-Com-Cadarco-Enery-Preto-E-Vermelho-Estival.jpg?v=637885849400270000" width="180" height="180" alt="Botina-Com-Cadarco-Enery-Preto-E-Vermelho-Estival" id="" />
+    		    <div class="flags-discount">
+            	    <p class="flag desconto-de-5--boleto">Desconto de 5% boleto</p>
+            	    
+            	</div>
+    		</a>
+		    	
+		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-42-energy-preto-e-vermelho-estival/p" title="Botina Com Cadar&#231;o N&#186; 42 Energy Preto E Vermelho Estival">
+		    <span class="title-vitrine">Botina Com Cadar&#231;o N&#186; 42 Energy Preto E Vermelho Estival</span>
+		</a>
+		
+		    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-42-energy-preto-e-vermelho-estival/p" title="Botina Com Cadar&#231;o N&#186; 42 Energy Preto E Vermelho Estival">
+        		        		<span class="price-vitrine">R$ 233,58</span>
+        		<!--<span class="title-vista">á vista com (5 % de desconto)</span>-->
+        		        		    <span class="title-parcelado">ou 6 <span class="number-installment" >x</span> de <span class="uppercase">R$ 38,93</span></span>
+                            </a>
+    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-42-energy-preto-e-vermelho-estival/p" class="vitrine-btn">Comprar <span class="ico"></span></a>
+				
+	</div>
+</div>
+</li><li id="helperComplement_3573542" style="display:none" class="helperComplement"></li><li layout="376aae94-8a22-44eb-90ea-82111b0db641" class="calcados last">
+
+<div class="vitrine">
+	<div class="editContent">
+	        		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-40-energy-marrom-estival/p" title="Botina Com Cadar&#231;o N&#186; 40 Energy Marrom Estival" class="link-image">
+    		        		    <img src="https://cosama.vteximg.com.br/arquivos/ids/170226-180-180/Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival.jpg?v=637886688860330000" width="180" height="180" alt="Botina-Com-Cadarco-Nº-38-Energy-Marrom-Estival" id="" />
+    		    <div class="flags-discount">
+            	    <p class="flag desconto-de-5--boleto">Desconto de 5% boleto</p>
+            	    
+            	</div>
+    		</a>
+		    	
+		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-40-energy-marrom-estival/p" title="Botina Com Cadar&#231;o N&#186; 40 Energy Marrom Estival">
+		    <span class="title-vitrine">Botina Com Cadar&#231;o N&#186; 40 Energy Marrom Estival</span>
+		</a>
+		
+		    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-40-energy-marrom-estival/p" title="Botina Com Cadar&#231;o N&#186; 40 Energy Marrom Estival">
+        		        		<span class="price-vitrine">R$ 237,82</span>
+        		<!--<span class="title-vista">á vista com (5 % de desconto)</span>-->
+        		        		    <span class="title-parcelado">ou 6 <span class="number-installment" >x</span> de <span class="uppercase">R$ 39,63</span></span>
+                            </a>
+    		<a href="https://www.cosamapro.com.br/botina-com-cadarco-nº-40-energy-marrom-estival/p" class="vitrine-btn">Comprar <span class="ico"></span></a>
+				
+	</div>
+</div>
+</li><li id="helperComplement_3593152" style="display:none" class="helperComplement"></li></ul></div></div></div><div class="product-description"><h3 class="title-description">Informações do Produto</h3><div class="bg"><div class="productDescription">Botina Com Cadarço Nº 38 Energy Marrom Estival
+
+Calçado de segurança tipo bota cor  marrom, confeccionado em couro nobuck de alta qualidade, fechamento através de atacador (cadarço), forro em material não tecido, palmilha de montagem fixada no cabedal pelo sistema strobel, palmilha de conforto (calcanheira) em EVA macio, biqueira plástica (PVC) e solado em Poliuretano (PU) bidensidade com pontos de rotação, canais de escoamento e freio resistente a óleos, graxos e combustíveis. 
+
+Biqueira: Calçado com biqueira pvc
+
+Forração: Calçado forrado com tecido favinho anti-bactericida e antifungicida altamente resistente contra rasgamento e abrasão, com toque macio. Forração na parte interna da gáspea em material não tecido de 1,8mm e forro suador parte traseira.
+
+Especificações:
+
+- Referência: WO20001S1
+- Numeração: 38
+- Linha: Energy
+- Composição: Microfibra, têxtil e poliuretano
+- Contraforte: Termoplástico espessura 1,4mm 
+- Atacados: Feito em poliéster com diâmetro de 3mm
+
+*Imagens meramente ilustrativas 
+*Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor</div><script src="https://ce.tramontina.com/dist/tramontina-content.js"></script></div></div><!-- .product-description --><div class="rating avaliacoes"><h3 class="title-rating">Avaliações</h3><div class="bg"><input type="hidden" value="3593150" class="product-user-review-product-id"><input type="hidden" value="2770024" class="product-user-review-category-id"><input type="hidden" value="botina-com-cadarco-nº-38-energy-marrom-estival" class="product-user-review-product-linkid"><input type="hidden" value="3" class="product-user-review-qtdReviewsToBeShown"><div id="resenha">
+     <div id="opiniao_de_usuario">
+     </div>
+</div>
+</div></div></div></div><!--  SubTemplate: Footer --><div class="portal-minicart-ref"></div><script>$('.portal-minicart-ref').minicart({ showMinicart: true, showTotalizers: false  , showShippingOptions: false });</script><form id="frmCadastro"><div class="container-not-responsive"><div class="row padding0"><div class="col-xs-12 padding0 newsletter"><div class="col-xs-1"><i class="fa fa-envelope"></i></div><div class="col-xs-4"><span>Cadastre-se</span><span>Receba nossas ofertas e novidades em seu e-mail!</span></div><div class="col-xs-7 padding0 form-newsletter"><div class="col-xs-4 form-group"><input class="form-control form-newsletter-input text-box single-line name-newsletter" name="nome" placeholder="Digite seu nome aqui." type="text" value="" required="required" /></div><div class="col-xs-6 form-group"><input class="form-control form-newsletter-input text-box single-line email-newsletter" name="email" placeholder="Digite seu e-mail aqui." type="text" value="" required="required" /></div><div class="col-xs-2"><input type="submit" class="btn btn-warning btn-sign-newsletter" value="Assinar" /></div></div></div></div><!-- End Row --></div></form><footer><section class="container-not-responsive"><div class="row padding0"><div class="col-xs-9 padding0 footer-atendimento"><div class="col-xs-5 "><div class="border-atendimento"><h5>Central de Atendimento</h5><div class="row atendimento"><i class="icon-atendimento"></i><span>19 3836-6868</span><br /></div><div class="row vendas-email"><i class="icon-mensagem"></i><span><a href="mailto:vendas-online@cosama.net">vendas-online@cosama.net</a></span></div></div></div><div class="col-xs-7 institucional"><h5>Institucional</h5><ul class="links-footer"><li><a href="/institucional/empresa">Quem Somos</a></li><li><a href="/institucional/nossas-lojas">Nossas Lojas</a></li><li><a href="/institucional/termos-uso">Termos e Condições de Uso</a></li><li><a href="/institucional/fretes-entrega">Fretes e Entrega</a></li><li><a href="/institucional/garantia-trocas-devolucoes">Garantia, Trocas e Devoluções</a></li><li><a href="/institucional/politica-privacidade">Política de Privacidade</a></li></ul></div></div><div class="col-xs-3"><div class="pull-right redes-sociais"><h5>Redes Sociais</h5><a href="https://www.facebook.com/cosamapro/" target="_blank" title="Facebook" class="fb"></a><a href="https://www.instagram.com/cosamapro/" target="_blank" class="in"></a></div></div></div><!-- End Row --><div class="row padding0 cartoes-footer-box"><div class="col-xs-5 "><h5>Formas de Pagamento</h5><img src="/arquivos/cartoes.png?v=636366835877030000" alt="" title="" class="cartoes-footer" /></div><div class="col-xs-4"><h5 class="title-selos">Selos de Segurança</h5><div class="row selos"><div class="col-xs-3"><img src="/arquivos/lets-encrypt.png?v=636479769893970000" alt="" title="" /></div><div class="col-xs-6"><img src="/arquivos/site-seguro.png?v=636366836116970000" alt="" title="" /></div></div></div><div class="col-xs-3 padding0"><div class="row"><div class="col-xs-6"></div></div></div></div></section><section class="copyright"><section class="container-not-responsive "><div class="row padding0"><div class="col-xs-12 padding0">
+                    Copyright © 2024 www.cosamapro.com.br, TODOS OS DIREITOS RESERVADOS. Todo o conteúdo do site, todas as fotos, imagens, logotipos, marcas, dizeres, som, software, conjunto imagem, layout, trade dress, aqui veiculados são de propriedade exclusiva da Coml. Agro Tintas São Matheus Ltda. É vedada qualquer reprodução, total ou parcial, de qualquer elemento de identidade, sem expressa autorização. A violação de qualquer direito mencionado implicará na responsabilização cível e criminal nos termos da Lei.
+                </div></div><!-- End Row --><div class="row padding0"><div class="col-xs-12 padding0 map"><i class="fa fa-map-marker map-footer"></i><span>
+                        Coml. Agro Tintas São Matheus Ltda.- CNPJ: 67.200.618/0001-76 - Av. Independência, 7232 - Jd. São Matheus, Vinhedo / SP
+                    </span></div></div></section></section></footer><!-- /SubTemplate: Footer --><div class="mask-hover"></div><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-55362201-2', 'auto');
+ga('send', 'pageview');
+</script><script src="/arquivos/bootstrap.js?v=636364850082970000"></script><script src="/arquivos/respond.js?v=636364850438030000"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script><script src="/arquivos/app.js?v=637079773662830000"></script><script src="/arquivos/common.js?v=636364850098030000"></script><script src="/arquivos/tab.js?v=636471316160300000"></script><script src="/arquivos/jquery.animate_from_to-1.0.js?v=636471316138800000"></script><script src="/arquivos/jquery.mask.js?v=636471316148700000" type="text/javascript"></script><script src="/arquivos/jquery-zoom.js?v=636476551791730000"></script><script src="/arquivos/accounting.js?v=636476551776100000"></script><script src="/arquivos/produto.js?v=636704614428700000"></script><script src="https://ce.tramontina.com/dist/tramontina-content.js"></script><script language="javascript" src="https://cosama.vteximg.com.br/scripts/track.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/thickbox.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/json2.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.callcenterdisclaimer.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.ajaxloader_v2.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/social/vtex-view-part.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.jsevents.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.skuevents.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.skuevents.skudatafetcher.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.skureference.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.imagecontrol3.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/intersect.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.selleroptions.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.skuservice.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.shippingvalue.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.commerce.batchbuy.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/jquery.livequery.min.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/prettyphoto/js/jquery.prettyphoto.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/prettyphoto/js/lean-prettyphoto.js?v=1.0.0.0"   type="text/javascript"></script>
+<script language="javascript" src="https://cosama.vteximg.com.br/scripts/vtex.viewpart.userreview.js?v=1.0.0.0"   type="text/javascript"></script>
+</body>
+</html>
